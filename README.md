@@ -19,6 +19,9 @@ A simple tool to bulk delete emojis from your Discord server while allowing whit
    - List of **whitelisted emojis**
 3. Run `start.bat` to start the script.
 
+## Discord Support Server
+Join our Discord support server for help and updates: [Support Server](https://discord.gg/n3BnCfVBeA)
+
 ## Screenshot
 ![Screenshot](screen.png)
 
